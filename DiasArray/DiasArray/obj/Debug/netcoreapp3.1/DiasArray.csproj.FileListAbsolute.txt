@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\bin\Debug\netcoreapp3.1\DiasArray.exe
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\bin\Debug\netcoreapp3.1\DiasArray.deps.json
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\bin\Debug\netcoreapp3.1\DiasArray.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\bin\Debug\netcoreapp3.1\DiasArray.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\bin\Debug\netcoreapp3.1\DiasArray.dll
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\bin\Debug\netcoreapp3.1\DiasArray.pdb
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\obj\Debug\netcoreapp3.1\DiasArray.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\obj\Debug\netcoreapp3.1\DiasArray.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\obj\Debug\netcoreapp3.1\DiasArray.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\obj\Debug\netcoreapp3.1\DiasArray.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\obj\Debug\netcoreapp3.1\DiasArray.dll
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\obj\Debug\netcoreapp3.1\DiasArray.pdb
+C:\Users\WANDA\Desktop\C#\DiasArray\DiasArray\obj\Debug\netcoreapp3.1\DiasArray.genruntimeconfig.cache

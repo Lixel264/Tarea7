@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\bin\Debug\netcoreapp3.1\OrdenContrario.exe
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\bin\Debug\netcoreapp3.1\OrdenContrario.deps.json
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\bin\Debug\netcoreapp3.1\OrdenContrario.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\bin\Debug\netcoreapp3.1\OrdenContrario.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\bin\Debug\netcoreapp3.1\OrdenContrario.dll
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\bin\Debug\netcoreapp3.1\OrdenContrario.pdb
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\obj\Debug\netcoreapp3.1\OrdenContrario.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\obj\Debug\netcoreapp3.1\OrdenContrario.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\obj\Debug\netcoreapp3.1\OrdenContrario.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\obj\Debug\netcoreapp3.1\OrdenContrario.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\obj\Debug\netcoreapp3.1\OrdenContrario.dll
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\obj\Debug\netcoreapp3.1\OrdenContrario.pdb
+C:\Users\WANDA\Desktop\C#\OrdenContrario\OrdenContrario\obj\Debug\netcoreapp3.1\OrdenContrario.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\bin\Debug\netcoreapp3.1\DiasMes.exe
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\bin\Debug\netcoreapp3.1\DiasMes.deps.json
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\bin\Debug\netcoreapp3.1\DiasMes.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\bin\Debug\netcoreapp3.1\DiasMes.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\bin\Debug\netcoreapp3.1\DiasMes.dll
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\bin\Debug\netcoreapp3.1\DiasMes.pdb
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\obj\Debug\netcoreapp3.1\DiasMes.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\obj\Debug\netcoreapp3.1\DiasMes.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\obj\Debug\netcoreapp3.1\DiasMes.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\obj\Debug\netcoreapp3.1\DiasMes.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\obj\Debug\netcoreapp3.1\DiasMes.dll
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\obj\Debug\netcoreapp3.1\DiasMes.pdb
+C:\Users\WANDA\Desktop\C#\DiasMes\DiasMes\obj\Debug\netcoreapp3.1\DiasMes.genruntimeconfig.cache

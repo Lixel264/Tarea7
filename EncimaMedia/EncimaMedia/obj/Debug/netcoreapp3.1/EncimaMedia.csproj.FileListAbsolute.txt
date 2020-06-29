@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\bin\Debug\netcoreapp3.1\EncimaMedia.exe
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\bin\Debug\netcoreapp3.1\EncimaMedia.deps.json
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\bin\Debug\netcoreapp3.1\EncimaMedia.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\bin\Debug\netcoreapp3.1\EncimaMedia.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\bin\Debug\netcoreapp3.1\EncimaMedia.dll
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\bin\Debug\netcoreapp3.1\EncimaMedia.pdb
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\obj\Debug\netcoreapp3.1\EncimaMedia.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\obj\Debug\netcoreapp3.1\EncimaMedia.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\obj\Debug\netcoreapp3.1\EncimaMedia.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\obj\Debug\netcoreapp3.1\EncimaMedia.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\obj\Debug\netcoreapp3.1\EncimaMedia.dll
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\obj\Debug\netcoreapp3.1\EncimaMedia.pdb
+C:\Users\WANDA\Desktop\C#\EncimaMedia\EncimaMedia\obj\Debug\netcoreapp3.1\EncimaMedia.genruntimeconfig.cache

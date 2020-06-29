@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\bin\Debug\netcoreapp3.1\TotalDiasMes.exe
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\bin\Debug\netcoreapp3.1\TotalDiasMes.deps.json
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\bin\Debug\netcoreapp3.1\TotalDiasMes.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\bin\Debug\netcoreapp3.1\TotalDiasMes.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\bin\Debug\netcoreapp3.1\TotalDiasMes.dll
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\bin\Debug\netcoreapp3.1\TotalDiasMes.pdb
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\obj\Debug\netcoreapp3.1\TotalDiasMes.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\obj\Debug\netcoreapp3.1\TotalDiasMes.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\obj\Debug\netcoreapp3.1\TotalDiasMes.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\obj\Debug\netcoreapp3.1\TotalDiasMes.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\obj\Debug\netcoreapp3.1\TotalDiasMes.dll
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\obj\Debug\netcoreapp3.1\TotalDiasMes.pdb
+C:\Users\WANDA\Desktop\C#\TotalDiasMes\TotalDiasMes\obj\Debug\netcoreapp3.1\TotalDiasMes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\bin\Debug\netcoreapp3.1\DiasQueQuedan.exe
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\bin\Debug\netcoreapp3.1\DiasQueQuedan.deps.json
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\bin\Debug\netcoreapp3.1\DiasQueQuedan.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\bin\Debug\netcoreapp3.1\DiasQueQuedan.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\bin\Debug\netcoreapp3.1\DiasQueQuedan.dll
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\bin\Debug\netcoreapp3.1\DiasQueQuedan.pdb
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\obj\Debug\netcoreapp3.1\DiasQueQuedan.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\obj\Debug\netcoreapp3.1\DiasQueQuedan.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\obj\Debug\netcoreapp3.1\DiasQueQuedan.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\obj\Debug\netcoreapp3.1\DiasQueQuedan.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\obj\Debug\netcoreapp3.1\DiasQueQuedan.dll
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\obj\Debug\netcoreapp3.1\DiasQueQuedan.pdb
+C:\Users\WANDA\Desktop\C#\DiasQueQuedan\DiasQueQuedan\obj\Debug\netcoreapp3.1\DiasQueQuedan.genruntimeconfig.cache
